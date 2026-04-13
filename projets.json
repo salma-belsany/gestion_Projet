@@ -1,0 +1,250 @@
+[
+  {
+    "nom": "1",
+    "type_etude": [
+      "Mécanique"
+    ],
+    "type_donnees_entrees": [
+      ".stp"
+    ],
+    "type_calculs": [
+      "Analyse FEM"
+    ],
+    "logiciels_utilises": [
+      "Abaqus",
+      "Ansys",
+      "Catia",
+      "Patran"
+    ],
+    "livrable": [
+      "PPT",
+      ".bdf",
+      "E mail",
+      "Dossier de justif/certif (.docx)"
+    ],
+    "client": "Airbus",
+    "statut": "En cours",
+    "type_activites": "Simple",
+    "type_contrat": "Prestation au forfait",
+    "collaborateur_referent": ",,,,,,,,,,,,,,",
+    "commentaire": ",,,,,,,,,,,,,,",
+    "directory": ",,,,,,,,,,,,",
+    "id": "7b764ced-1f45-49cd-9e65-a6dc60236dd6",
+    "id_utilisateur": "UP60077111",
+    "date_creation": "2026-04-08"
+  },
+  {
+    "nom": "1 (copie)",
+    "type_etude": [
+      "Mécanique"
+    ],
+    "type_donnees_entrees": [
+      ".stp"
+    ],
+    "type_calculs": [
+      "Analyse FEM"
+    ],
+    "logiciels_utilises": [
+      "Abaqus",
+      "Ansys",
+      "Catia",
+      "Patran"
+    ],
+    "livrable": [
+      "PPT",
+      ".bdf",
+      "E mail",
+      "Dossier de justif/certif (.docx)"
+    ],
+    "client": "Airbus",
+    "statut": "En cours",
+    "type_activites": "Simple",
+    "type_contrat": "Prestation au forfait",
+    "collaborateur_referent": ",,,,,,,,,,,,,,",
+    "commentaire": ",,,,,,,,,,,,,,",
+    "directory": ",,,,,,,,,,,,",
+    "id": "6b10432b-e2ca-4240-8e55-9c1e05320002",
+    "id_utilisateur": "UP60077111",
+    "date_creation": "2026-04-08"
+  },
+  {
+    "nom": "111111111111111",
+    "collaborateur_referent": "",
+    "mots_cles": "",
+    "commentaire": "",
+    "directory": "",
+    "date_debut": "12/02/2001",
+    "date_fin": "",
+    "type_etude": [
+      "Mécanique"
+    ],
+    "type_donnees_entrees": [
+      ".stp",
+      ".word",
+      ".xls"
+    ],
+    "type_calculs": [
+      "Fixations",
+      "Efforts d'interfaces",
+      "Chape"
+    ],
+    "logiciels_utilises": [
+      "Abaqus",
+      "Ansys",
+      "Catia",
+      "Hypermesh"
+    ],
+    "livrable": [
+      ".bdf",
+      "E mail",
+      "Pdf",
+      "Fichiers de calculs (.xls)"
+    ],
+    "client": "Airbus-FTI",
+    "statut": "Terminé",
+    "type_activites": "Intermédiare",
+    "type_contrat": "Assistance technique",
+    "id": "17227dd3-ef71-462b-a268-e159a5b88851",
+    "id_utilisateur": "Salma",
+    "date_creation": "2026-04-10"
+  },
+  {
+    "nom": "111111",
+    "collaborateur_referent": "aaaaaaaaaaaaaa",
+    "mots_cles": "",
+    "commentaire": "¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨",
+    "directory": "",
+    "date_debut": "12/02/2001",
+    "date_fin": "",
+    "type_etude": [
+      "Mécanique"
+    ],
+    "type_donnees_entrees": [
+      ".stp",
+      ".word",
+      ".xls"
+    ],
+    "type_calculs": [
+      "Fixations",
+      "Efforts d'interfaces",
+      "Chape"
+    ],
+    "logiciels_utilises": [
+      "Abaqus",
+      "Ansys",
+      "Catia",
+      "Hypermesh"
+    ],
+    "livrable": [
+      ".bdf",
+      "E mail",
+      "Pdf",
+      "Fichiers de calculs (.xls)"
+    ],
+    "client": "Airbus-FTI",
+    "statut": "Terminé",
+    "type_activites": "Intermédiare",
+    "type_contrat": "Assistance technique",
+    "id": "85ad2df8-198e-44d3-ab90-1b4adcb292ef",
+    "id_utilisateur": "Salma",
+    "date_creation": "2026-04-10"
+  },
+  {
+    "nom": "ddddd",
+    "collaborateur_referent": "",
+    "mots_cles": "",
+    "commentaire": "",
+    "directory": "",
+    "date_debut": "",
+    "date_fin": "",
+    "type_etude": [
+      "Thermique",
+      "Fluide"
+    ],
+    "type_donnees_entrees": [],
+    "type_calculs": [],
+    "logiciels_utilises": [],
+    "livrable": [],
+    "client": "",
+    "statut": "",
+    "type_activites": "",
+    "type_contrat": "",
+    "id": "d50e9926-86d5-4bb4-b56f-b50bb42e10a7",
+    "id_utilisateur": "Salma",
+    "date_creation": "2026-04-11"
+  },
+  {
+    "nom": "1 (cghhhhhhhhhhhhh",
+    "collaborateur_referent": ",,,,,,,,,,,,,,",
+    "mots_cles": "",
+    "commentaire": ",,,,,,,,,,,,,,",
+    "directory": ",,,,,,,,,,,,",
+    "date_debut": "",
+    "date_fin": "",
+    "type_etude": [
+      "Mécanique"
+    ],
+    "type_donnees_entrees": [
+      ".stp"
+    ],
+    "type_calculs": [
+      "Analyse FEM"
+    ],
+    "logiciels_utilises": [
+      "Abaqus",
+      "Ansys",
+      "Catia",
+      "Patran"
+    ],
+    "livrable": [
+      "PPT",
+      ".bdf",
+      "E mail",
+      "Dossier de justif/certif (.docx)"
+    ],
+    "client": "Airbus",
+    "statut": "En cours",
+    "type_activites": "Simple",
+    "type_contrat": "Prestation au forfait",
+    "id": "56b1a021-da08-494a-aa88-716f8c688c91",
+    "id_utilisateur": "Salma",
+    "date_creation": "2026-04-11"
+  },
+  {
+    "nom": "copi duplique teste",
+    "collaborateur_referent": ",,,,,,,,,,,,,,",
+    "mots_cles": "",
+    "commentaire": ",,,,,,,,,,,,,,",
+    "directory": ",,,,,,,,,,,,",
+    "date_debut": "",
+    "date_fin": "",
+    "type_etude": [
+      "Mécanique"
+    ],
+    "type_donnees_entrees": [
+      ".stp"
+    ],
+    "type_calculs": [
+      "Analyse FEM"
+    ],
+    "logiciels_utilises": [
+      "Abaqus",
+      "Ansys",
+      "Catia",
+      "Patran"
+    ],
+    "livrable": [
+      "PPT",
+      ".bdf",
+      "E mail",
+      "Dossier de justif/certif (.docx)"
+    ],
+    "client": "Airbus",
+    "statut": "Terminé",
+    "type_activites": "Intermédiare",
+    "type_contrat": "Prestation au forfait",
+    "id": "5b284c7d-3074-4709-a072-476ed7942736",
+    "id_utilisateur": "Salma",
+    "date_creation": "2026-04-11"
+  }
+]

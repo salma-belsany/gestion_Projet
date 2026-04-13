@@ -10,5 +10,3 @@ __pycache__/
 # Config utilisateur (chemin local, ne pas versionner)
 user_config.json
 
-# Données locales
-projets.json
