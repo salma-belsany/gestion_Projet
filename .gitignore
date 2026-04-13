@@ -1,0 +1,15 @@
+# PyInstaller
+build/
+dist/
+*.spec.bak
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Config utilisateur (chemin local, ne pas versionner)
+user_config.json
+
+# Données locales
+projets.json

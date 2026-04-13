@@ -1,0 +1,76 @@
+{
+    "Clients": [
+        "Airbus",
+        "Airbus-FTI",
+        "Safran",
+        "drgfdg",
+        "vbbbb",
+        "jujjj",
+        "airbus airbus"
+    ],
+    "Livrables": [
+        "PPT",
+        ".bdf",
+        "E mail",
+        "Pdf",
+        "Dossier de justif/certif (.docx)",
+        "Fichiers de calculs (.xls)"
+    ],
+    "Logiciels": [
+        "Abaqus",
+        "Ansys",
+        "Catia",
+        "Patran",
+        "Hypermesh",
+        "Nastran",
+        "Ls-DYNA"
+    ],
+    "Statut": [
+        "En cours",
+        "Terminé",
+        "Archivé",
+        "Annulé"
+    ],
+    "Type d'activitées": [
+        "Simple",
+        "Intermédiare",
+        "Complexe"
+    ],
+    "Type de calculs": [
+        "Analyse FEM",
+        "Fixations",
+        "Efforts d'interfaces",
+        "Poutre",
+        "Chape",
+        "Bielle",
+        "Analyse déformation",
+        "Mode propre",
+        "Dépliage",
+        "Délaminage",
+        "Pull through",
+        "Flambage",
+        "Composite",
+        "Choc à l'oiseau",
+        "Réparation"
+    ],
+    "Type de contrat": [
+        "Prestation au forfait",
+        "Assistance technique",
+        "Contrat Cadre -UO"
+    ],
+    "Type de données d'entrées": [
+        ".stp",
+        ".word",
+        ".xls"
+    ],
+    "Type d'études": [
+        "Mécanique",
+        "Thermique",
+        "Fluide",
+        "Statique",
+        "Dynamique",
+        "Non linaire",
+        "Linaire",
+        "Analytique"
+    ]
+}
