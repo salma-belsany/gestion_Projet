@@ -41,6 +41,8 @@ pyz = PYZ(a.pure)
 exe = EXE(
     pyz,
     a.scripts,
+    a.binaries,
+    a.datas,
     [],
     name='GestionProjets',
     debug=False,
@@ -52,14 +54,4 @@ exe = EXE(
     console=False,          # Pas de fenêtre console
     disable_windowed_traceback=False,
     icon=str(ROOT / 'assets' / 'logo.png'),  # Icône de l'exe
-)
-
-coll = COLLECT(
-    exe,
-    a.binaries,
-    a.datas,
-    strip=False,
-    upx=True,
-    upx_exclude=[],
-    name='GestionProjets',
 )
